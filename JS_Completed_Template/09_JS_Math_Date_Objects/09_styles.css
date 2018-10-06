@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    font-family: "Comic Sans MS",sans-serif;
+}
+h2{
+    background-color: lightsalmon;
+    text-align: center;
+    padding: 10px;
+}
+div{
+    background-color: orange;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+/* digital Clock */
+section{
+    background-color: lightsalmon;
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    width: 500px;
+    margin: 50px auto;
+    border: 10px solid orangered;
+    border-radius: 15px;
+    box-shadow: 0 0 15px black;
+}
+section h1{
+    margin: 0;
+}

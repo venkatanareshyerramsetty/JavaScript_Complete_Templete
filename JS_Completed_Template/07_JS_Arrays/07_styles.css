@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    font-family: "Comic Sans MS",sans-serif;
+}
+h2{
+    background-color: lightsalmon;
+    text-align: center;
+    padding: 10px;
+}
+div{
+    background-color: orange;
+    padding: 10px;
+    text-align: center;
+}
+input[type='text']{
+    font-size: 18px;
+    text-align: center;
+    height: 35px;
+}
+button{
+    font-size: 18px;
+    padding: 8px 25px;
+    color: white;
+    border: none;
+}
+#add{
+    background-color: forestgreen;
+}
+#delete{
+    background-color: red;
+}
